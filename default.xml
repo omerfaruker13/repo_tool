@@ -1,0 +1,5 @@
+<manifest>
+<remote name="demo" fetch="https://github.com/omerfaruker13"/>
+<default revision="refs/heads/master" remote="demo" sync-j="4"/>
+<project name="project1" remote="demo" path="vm"/>
+</manifest>
